@@ -20,6 +20,8 @@ Feature: Scenario2
 
     Then I should see Number of seats available
 
-    And I select Course From Catalog List
-
+    
     Then I should see the login Form
+    Then I should see the login Form
+
+    
